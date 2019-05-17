@@ -2,6 +2,8 @@
 ## 鹰七自建
 ## Welcome to GitHub Pages
 [dian](https://github.com/YangJunWeifromchina/YangJunWeifromchina.github.io/blob/master/test.md)
+[111](./test.md)
+[222](test.md)
 You can use the [editor on GitHub](https://github.com/YangJunWeifromchina/YangJunWeifromchina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
